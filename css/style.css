@@ -1,0 +1,46 @@
+/********************************************************************
+
+*******  VISUALISATION DES BLOCS  ************
+
+div, header, section, article, aside, nav {
+	border: 1px dashed rgba(0,0,0,0.15);
+	background-color: rgba(0,0,0,0.05);
+}
+
+.clear {
+	border: 1px dashed red;
+}
+
+**********************************************
+
+/* FONT FACE */
+/* Appelle les polices de la page */
+
+/*GLOBAL */
+/* Balises et class appelés à plusieurs endroits dans la page */
+
+*{
+	box-sizing:border-box;
+}
+
+html{
+	font-size:62.5%;
+	margin:0;
+}
+
+body{
+    margin:0 auto;
+	font-size:1.6rem;
+	background-color:#8A0808;
+}
+
+
+img{
+	max-width: 100%;
+	border-width:0;
+}
+
+
+#mon_canvas{
+	
+}
